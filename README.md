@@ -13,6 +13,8 @@
 
 ![New Photo](123456.jpg "123456")
 
+[![Youtube](照片)](https://www.youtube.com/ "YT")
+
 This is a `test`.
 
 ```
@@ -20,8 +22,11 @@ This is a long quote
 ```
 
 
+
 - [x] this is checked
 - [ ] 2nd
 - [ ] 3rd
 
-[![Youtube](照片)](https://www.youtube.com/ "YT")
+
+s = "Python syntax highlighting"
+print s
