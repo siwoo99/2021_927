@@ -15,3 +15,4 @@ This is a `test`.
 ```
 This is a long quote
 ```
+![New Photo](123456.jpg "123456")
