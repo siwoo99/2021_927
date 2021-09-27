@@ -28,5 +28,3 @@ This is a long quote
 - [ ] 3rd
 
 
-s = "Python syntax highlighting"
-print s
