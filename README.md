@@ -10,9 +10,16 @@
 
 ![NKUST](https://www.nkust.edu.tw/var/file/0/1000/img/513/182513897.png"高科大")
 
+
+![New Photo](123456.jpg "123456")
+
 This is a `test`.
 
 ```
 This is a long quote
 ```
-![New Photo](123456.jpg "123456")
+
+
+- [x] this is checked
+- [ ] 2nd
+- [ ] 3rd
